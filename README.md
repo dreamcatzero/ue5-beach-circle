@@ -1,6 +1,7 @@
-# UE5 - Tutorial -   _third person shooting using blueprint_ 
+# UE5 - Tutorial -   _third person beach scene blueprint_ 
 
-![thirdPerson](https://user-images.githubusercontent.com/121831113/210415919-ed3f2c76-eff9-4235-bdf9-44e28b6da69a.png)
+![beach](https://user-images.githubusercontent.com/121831113/210895473-bbc83258-8f57-41b6-8002-5e8e57d7055e.png)
+
 
 
 ## **Requirements:**
